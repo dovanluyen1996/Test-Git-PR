@@ -1,0 +1,25 @@
+body {
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+}
+.test1 {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  border-radius: 50%;
+  top: 0;
+  left: 0;
+}
+.test2 {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+  border-radius: 50%;
+  bottom: 0;
+  right: 0;
+}

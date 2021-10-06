@@ -1,0 +1,28 @@
+body {
+}
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  position: relative;
+  background-color: grey;
+}
+.test1 {
+  width: 450px;
+  height: 450px;
+  background-color: red;
+  border-radius: 50%;
+}
+.test2 {
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+  border-radius: 50%;
+  position: absolute;
+  right: 0;
+  top: 50%;
+}
+.im-center {
+  width: 200px;
+  height: 300px;
+  border: 1px solid black;
+}

@@ -1,0 +1,18 @@
+body {
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.test1 {
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  border-radius: 50%;
+}
+.test2 {
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+  border-radius: 50%;
+}

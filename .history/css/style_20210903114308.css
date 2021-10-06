@@ -1,0 +1,26 @@
+body {
+  background-color: blue;
+}
+
+header {
+  width: 200px;
+  height: 300px;
+  background-color: #fff;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header h2 {
+  color: red;
+}
+
+main h3 {
+  color: black;
+}
+
+footer {
+  color: yellow;
+}
+
+/*# sourceMappingURL=style.css.map */
